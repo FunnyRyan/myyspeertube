@@ -1,5 +1,5 @@
 SOURCE_URL=https://xiaohost.com/peertube-v2.4.0.tar.xz
-SOURCE_SUM=8cca29e4fc24dfe7a51ace00fad11e4d1d5b2a476bdc951f592a5b025518b00c
+SOURCE_SUM=345c5854fb919574dec4bdd92d41bbd520efae5ae3b1c8f6a849e2f655c23900
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.xz
 SOURCE_IN_SUBDIR=true
